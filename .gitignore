@@ -1,0 +1,10 @@
+/build
+/run
+/.gradle
+/.settings
+/bin
+/.vscode
+/libs
+/eclipse
+/.classpath
+/.project
