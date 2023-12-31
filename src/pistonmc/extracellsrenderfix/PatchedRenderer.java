@@ -1,4 +1,4 @@
-package com.piston.mc.extracellsrenderfix;
+package pistonmc.extracellsrenderfix;
 
 import org.lwjgl.opengl.GL11;
 

@@ -1,4 +1,4 @@
-package com.piston.mc.extracellsrenderfix.coremod;
+package pistonmc.extracellsrenderfix.coremod;
 
 import java.util.HashMap;
 import java.util.Map;

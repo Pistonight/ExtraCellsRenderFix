@@ -1,4 +1,4 @@
-package com.piston.mc.extracellsrenderfix.coremod;
+package pistonmc.extracellsrenderfix.coremod;
 
 import org.objectweb.asm.tree.ClassNode;
 import org.objectweb.asm.tree.MethodNode;

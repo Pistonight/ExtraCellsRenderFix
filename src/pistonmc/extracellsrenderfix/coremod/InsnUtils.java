@@ -1,4 +1,4 @@
-package com.piston.mc.extracellsrenderfix.coremod;
+package pistonmc.extracellsrenderfix.coremod;
 
 import java.io.PrintWriter;
 import java.io.StringWriter;

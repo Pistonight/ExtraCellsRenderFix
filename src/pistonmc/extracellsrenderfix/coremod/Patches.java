@@ -1,4 +1,4 @@
-package com.piston.mc.extracellsrenderfix.coremod;
+package pistonmc.extracellsrenderfix.coremod;
 
 import org.lwjgl.opengl.GL11;
 import org.objectweb.asm.Opcodes;

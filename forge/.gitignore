@@ -1,0 +1,10 @@
+/src
+/bin
+/libs
+/run
+/build
+/.gradle
+/.settings
+/.classpath
+/.project
+/.decomp-workspace

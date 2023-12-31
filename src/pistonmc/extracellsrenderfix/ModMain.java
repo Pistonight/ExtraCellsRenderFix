@@ -1,9 +1,9 @@
-package com.piston.mc.extracellsrenderfix;
+package pistonmc.extracellsrenderfix;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import com.piston.mc.extracellsrenderfix.init.Init;
+import pistonmc.extracellsrenderfix.init.Init;
 
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.Mod.EventHandler;
@@ -22,6 +22,6 @@ public class ModMain {
     @EventHandler
     public void postInit(FMLPostInitializationEvent event)
     {
-		initProxy.init();
+        initProxy.init();
     }
 }

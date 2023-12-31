@@ -1,4 +1,4 @@
-package com.piston.mc.extracellsrenderfix.init;
+package pistonmc.extracellsrenderfix.init;
 
 /**
  * Init proxy

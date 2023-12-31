@@ -1,7 +1,7 @@
-package com.piston.mc.extracellsrenderfix.init;
+package pistonmc.extracellsrenderfix.init;
 
-import com.piston.mc.extracellsrenderfix.ModMain;
-import com.piston.mc.extracellsrenderfix.PatchedRenderer;
+import pistonmc.extracellsrenderfix.ModMain;
+import pistonmc.extracellsrenderfix.PatchedRenderer;
 
 import cpw.mods.fml.client.registry.ClientRegistry;
 import cpw.mods.fml.client.registry.RenderingRegistry;

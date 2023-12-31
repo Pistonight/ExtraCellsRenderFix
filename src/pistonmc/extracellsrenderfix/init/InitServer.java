@@ -1,6 +1,6 @@
-package com.piston.mc.extracellsrenderfix.init;
+package pistonmc.extracellsrenderfix.init;
 
-import com.piston.mc.extracellsrenderfix.ModMain;
+import pistonmc.extracellsrenderfix.ModMain;
 
 public class InitServer implements Init {
 
