@@ -31,6 +31,14 @@ minecraft {
     runDir = "run"
 }
 
+// coremod
+jar {
+    manifest {
+        attributes 'FMLCorePlugin': 'pistonmc.extracellsrenderfix.coremod.CoremodMain'
+        attributes 'FMLCorePluginContainsFMLMod': 'true'
+    }
+}
+// coremod
 dependencies {
     // you may put jars on which you depend on in ./libs
     // or you may define them like so..
